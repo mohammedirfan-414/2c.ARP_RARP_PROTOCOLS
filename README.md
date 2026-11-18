@@ -49,7 +49,8 @@ while True:
 ``` 
 ## OUPUT - ARP
 
-<img width="1726" height="913" alt="image" src="https://github.com/user-attachments/assets/b3706ec6-144d-417f-94f7-6eea43eb32f0" />
+<img width="1295" height="776" alt="image" src="https://github.com/user-attachments/assets/8a71408b-9462-4ee6-aee3-acfa0d43a0c6" />
+
 
 ## PROGRAM - RARP
 
